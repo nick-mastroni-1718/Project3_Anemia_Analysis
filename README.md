@@ -1,4 +1,1 @@
-Downloaded data from kaggleapi containg data about patients with and without anemia
-Cleaned up the data a bit in python so 
-Downloaded clean dataset into PowerBI where I made visualizations
-Created heatmap in python and inserted that into powerbi
+Data for this project comes from kaggle api. The data contains information about patients with and without anemia. The "pixel" columns refer to the percentage of green, blue, and red pixels in the respective patients eye, as determined by a medical eye scan. 
